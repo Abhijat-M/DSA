@@ -41,4 +41,12 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
+## Two Pointers
+|  |
+| ------- |
+| [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
 <!---LeetCode Topics End-->
