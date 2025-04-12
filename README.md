@@ -49,4 +49,12 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
