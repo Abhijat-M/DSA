@@ -38,6 +38,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijat-M/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -88,4 +89,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->
