@@ -39,7 +39,6 @@ def find_paths(maze):
         if col + 1 < cols:
             find_path_recursive(row, col + 1, current_path.copy())
 
-    # Start the recursion from the top-left corner (0, 0)
     find_path_recursive(0, 0, [])
     return all_paths
 
