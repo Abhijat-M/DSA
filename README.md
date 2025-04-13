@@ -26,3 +26,71 @@ Each topic has its own directory with problem-wise solutions.
 
 
 Let me know if you'd like to include LeetCode/GFG links or update for a different language.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Hash Table
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## String
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijat-M/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Array
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhijat-M/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Abhijat-M/DSA/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijat-M/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
+## Math
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/Abhijat-M/DSA/tree/master/0069-sqrtx) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijat-M/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhijat-M/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0033-search-in-rotated-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/Abhijat-M/DSA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Abhijat-M/DSA/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Abhijat-M/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
+<!---LeetCode Topics End-->
