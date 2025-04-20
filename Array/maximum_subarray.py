@@ -41,6 +41,5 @@ if __name__ == "__main__":
     test_runner = TestMaxSubarraySum()
     test_runner.test_max_sub_sum()
 
-    # Option 1: Print docstring of max_subarray_sum
     print("\nDocstring of max_subarray_sum:")
     print(TestMaxSubarraySum.max_subarray_sum.__doc__)
