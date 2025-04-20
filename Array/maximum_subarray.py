@@ -2,7 +2,7 @@ class TestMaxSubarraySum:
         
     @staticmethod
     def max_subarray_sum(nums: list[int]) -> int:
-        """Finds the maximum sum of a contiguous subarray by Kadane's Algorithm. 
+        '''Finds the maximum sum of a contiguous subarray by Kadane's Algorithm. 
 
             Args:
                 nums: A list of integers.
@@ -11,7 +11,7 @@ class TestMaxSubarraySum:
                 The maximum possible sum of a contiguous subarray.
                 Returns 0 if the list is empty.
                 Returns the largest number if all numbers are negative or zero.
-        """
+        '''
 
         if not nums:
             return 0 
@@ -40,3 +40,7 @@ class TestMaxSubarraySum:
 if __name__ == "__main__":
     test_runner = TestMaxSubarraySum()
     test_runner.test_max_sub_sum()
+
+    # Option 1: Print docstring of max_subarray_sum
+    print("\nDocstring of max_subarray_sum:")
+    print(TestMaxSubarraySum.max_subarray_sum.__doc__)
