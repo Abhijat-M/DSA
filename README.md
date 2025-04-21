@@ -52,12 +52,14 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhijat-M/DSA/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 ## Two Pointers
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Abhijat-M/DSA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/Abhijat-M/DSA/tree/master/0031-next-permutation) |
+| [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 ## Math
 |  |
 | ------- |
@@ -93,4 +95,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
