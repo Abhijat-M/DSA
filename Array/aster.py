@@ -39,11 +39,11 @@ class AsteroidCollision:
                 elif abs(asteroid) == last_asteroid_in_result:
                     result_array.pop()
                     alive = False
-                    # The current asteroid 'asteroid' and the last one in result_array explode.
+                    # The current asteroid  and the last one in result_array explode.
                     break 
                 else: # abs(asteroid) < last_asteroid_in_result
                     alive = False
-                    # Stop checking collisions for this 'asteroid', move to the next one.
+                    # Stop checking collisions for this, move to the next one.
                     break
                     
             
