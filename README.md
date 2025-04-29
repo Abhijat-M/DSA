@@ -65,6 +65,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Abhijat-M/DSA/tree/master/0069-sqrtx) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -95,8 +96,13 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
