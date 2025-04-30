@@ -65,12 +65,14 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Abhijat-M/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
 | [0191-number-of-1-bits](https://github.com/Abhijat-M/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -107,4 +109,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
