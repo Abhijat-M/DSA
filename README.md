@@ -70,6 +70,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Abhijat-M/DSA/tree/master/0191-number-of-1-bits) |
 ## String Matching
 |  |
 | ------- |
@@ -88,6 +89,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijat-M/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Abhijat-M/DSA/tree/master/0191-number-of-1-bits) |
 ## Matrix
 |  |
 | ------- |
