@@ -33,6 +33,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -56,6 +57,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
@@ -110,6 +112,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
+| [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Backtracking
 |  |
