@@ -33,6 +33,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -54,6 +56,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,10 +69,14 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
 | [0069-sqrtx](https://github.com/Abhijat-M/DSA/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/Abhijat-M/DSA/tree/master/0029-divide-two-integers) |
+| [0191-number-of-1-bits](https://github.com/Abhijat-M/DSA/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
 ## String Matching
 |  |
 | ------- |
@@ -87,6 +95,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Abhijat-M/DSA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/Abhijat-M/DSA/tree/master/0191-number-of-1-bits) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -95,8 +105,38 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
 ## Sorting
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/Abhijat-M/DSA/tree/master/0231-power-of-two) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
