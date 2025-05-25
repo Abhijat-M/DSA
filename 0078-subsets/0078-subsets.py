@@ -1,10 +1,12 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        def backtrack(start, path):
-            result.append(path)
-            for i in range(start, len(nums)):
-                backtrack(i + 1, path + [nums[i]])
-
-        result = []
-        backtrack(0, [])
-        return result
+        out=[]
+        out.append([])
+        if len(nums)==1:
+            out.append(nums)
+            return out
+        for i in range(1,len(nums)):
+            for j in combinations(nums,i):
+                out.append(list(j))
+        out.append(nums)
+        return out
