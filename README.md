@@ -55,6 +55,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Abhijat-M/DSA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Abhijat-M/DSA/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/Abhijat-M/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Abhijat-M/DSA/tree/master/0046-permutations) |
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/Abhijat-M/DSA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Abhijat-M/DSA/tree/master/0078-subsets) |
@@ -124,6 +125,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0040-combination-sum-ii](https://github.com/Abhijat-M/DSA/tree/master/0040-combination-sum-ii) |
+| [0046-permutations](https://github.com/Abhijat-M/DSA/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Abhijat-M/DSA/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Abhijat-M/DSA/tree/master/0090-subsets-ii) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
