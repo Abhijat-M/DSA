@@ -63,6 +63,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0078-subsets](https://github.com/Abhijat-M/DSA/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Abhijat-M/DSA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/Abhijat-M/DSA/tree/master/0090-subsets-ii) |
+| [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
@@ -113,6 +114,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Abhijat-M/DSA/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -168,12 +170,14 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijat-M/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 | [0543-diameter-of-binary-tree](https://github.com/Abhijat-M/DSA/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Abhijat-M/DSA/tree/master/0572-subtree-of-another-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Abhijat-M/DSA/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -184,4 +188,8 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Abhijat-M/DSA/tree/master/0572-subtree-of-another-tree) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
