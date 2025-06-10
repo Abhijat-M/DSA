@@ -35,6 +35,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Abhijat-M/DSA/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhijat-M/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## String
@@ -48,6 +49,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Abhijat-M/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/Abhijat-M/DSA/tree/master/0219-contains-duplicate-ii) |
 ## Array
 |  |
 | ------- |
@@ -65,6 +67,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0090-subsets-ii](https://github.com/Abhijat-M/DSA/tree/master/0090-subsets-ii) |
 | [0200-number-of-islands](https://github.com/Abhijat-M/DSA/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/Abhijat-M/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
