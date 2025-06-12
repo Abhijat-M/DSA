@@ -1,16 +1,16 @@
 class Solution:
     def canCross(self, stones: List[int]) -> bool:
-        n=len(stones)
-
-        @cache
-        def f(i, k):
-            if i==n-1: return True
-            ans=False
-            for jump in [k-1, k, k+1]:
-                if jump==0: continue
-                next= bisect_left(stones[i+1:], stones[i]+jump)+(i+1)
-                if next==n or stones[next]!=stones[i]+jump: continue
-                ans = ans or f(next, jump)
-            return ans
+        dp = [set() for _ in range(len(stones))]
         
-        return f(0, 0)
+        dp[0].add(1)
+        
+        for i in range(1,len(stones)):
+            for j in range(i):
+                diff = stones[i]-stones[j]
+                if diff in dp[j]:
+                    dp[i].add(diff-1)
+                    dp[i].add(diff)
+                    dp[i].add(diff+1)
+                    
+        return True if len(dp[-1])>0 else False
+        
