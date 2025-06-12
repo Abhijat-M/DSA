@@ -69,6 +69,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | [0217-contains-duplicate](https://github.com/Abhijat-M/DSA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/Abhijat-M/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Abhijat-M/DSA/tree/master/0347-top-k-frequent-elements) |
+| [0403-frog-jump](https://github.com/Abhijat-M/DSA/tree/master/0403-frog-jump) |
 | [0560-subarray-sum-equals-k](https://github.com/Abhijat-M/DSA/tree/master/0560-subarray-sum-equals-k) |
 ## Two Pointers
 |  |
@@ -123,6 +124,7 @@ Let me know if you'd like to include LeetCode/GFG links or update for a differen
 | ------- |
 | [0087-scramble-string](https://github.com/Abhijat-M/DSA/tree/master/0087-scramble-string) |
 | [0357-count-numbers-with-unique-digits](https://github.com/Abhijat-M/DSA/tree/master/0357-count-numbers-with-unique-digits) |
+| [0403-frog-jump](https://github.com/Abhijat-M/DSA/tree/master/0403-frog-jump) |
 ## Sorting
 |  |
 | ------- |
