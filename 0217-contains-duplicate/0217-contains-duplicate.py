@@ -1,9 +1,10 @@
 class Solution:
     def containsDuplicate(self, nums: List[int]) -> bool:
-        nums.sort()
+        from collections import Counter
 
-        for i in range(1, len(nums)):
-            if nums[i] == nums[i - 1]:
+        dic = Counter(nums)
+        for i, j in zip(dic.keys(), dic.values()):
+            if j>1:
                 return True
-        
+
         return False
